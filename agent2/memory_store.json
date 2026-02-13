@@ -1,0 +1,89 @@
+{
+  "facts": [
+    "User prefers toyota camry"
+  ],
+  "experiences": [
+    {
+      "timestamp": "2026-02-13T13:11:18.916439Z",
+      "task": "hi",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:11:35.504929Z",
+      "task": "give me cars names",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:11:58.145949Z",
+      "task": "I like toyota camry",
+      "outcome": "memory-only",
+      "meta": {
+        "facts": [
+          "User prefers toyota camry"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:12:23.560712Z",
+      "task": "i want red car",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:12:49.949131Z",
+      "task": "give me five countries",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:13:35.637481Z",
+      "task": "i am boy",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:14:14.946344Z",
+      "task": "i want docker with python",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:14:47.451183Z",
+      "task": "give me simple python program",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:15:29.096866Z",
+      "task": "give me calculater basic function python program",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    },
+    {
+      "timestamp": "2026-02-13T13:18:53.899949Z",
+      "task": "tell me what you know about me",
+      "outcome": "ok",
+      "meta": {
+        "facts": []
+      }
+    }
+  ]
+}

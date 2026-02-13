@@ -1,0 +1,191 @@
+{
+  "facts": [
+    "User prefers mornings best"
+  ],
+  "experiences": [
+    {
+      "timestamp": "2026-02-13T15:56:56.580585Z",
+      "task": "From Ravi -> Sita: How was your day today?",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 130
+      }
+    },
+    {
+      "timestamp": "2026-02-13T15:57:08.531881Z",
+      "task": "From Sita -> Ravi: - My day's been pretty good! I went for a walk in the park this morning.\n\n- Did you have any interesting experiences during yours?",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 138
+      }
+    },
+    {
+      "timestamp": "2026-02-13T15:57:32.879280Z",
+      "task": "From Sita -> Ravi: Hi Ravi! 😊\n\nYes, I did clean my room this morning.\n\nIs there anything special you planned for the weekend?",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 167
+      }
+    },
+    {
+      "timestamp": "2026-02-13T15:58:06.114123Z",
+      "task": "From Sita -> Ravi: Hi Ravi! That sounds lovely.\n\n- I would love that!\n- What movies are we talking about?\n- Do you have any book recommendations for this weekend?\n\nI hope you're having fun relaxing too!\n\nBye, see you soon! 😄",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 260
+      }
+    },
+    {
+      "timestamp": "2026-02-13T15:58:37.051490Z",
+      "task": "From Sita -> Ravi: Hi Ravi,\n\n\nThank you so much for the kind words!\n\n\n- Yes, it sounds wonderful to me!\n- Do you have any specific genres in mind? I'm excited about our plans.\n\n\nHave a great weekend,\n\nSita 😄",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 170
+      }
+    },
+    {
+      "timestamp": "2026-02-13T15:59:04.273955Z",
+      "task": "From Sita -> Ravi: Hi Ravi,\n\nI'm glad you liked the thought.\n\n- Do you have any movie recommendations for me? 😊\n\nHave a wonderful day! Looking forward to our next conversation.\n\n\nSita 🌼",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 158
+      }
+    },
+    {
+      "timestamp": "2026-02-13T15:59:31.257027Z",
+      "task": "From Sita -> Ravi: Hi Ravi! 😊\n\n- Thanks for the recommendation!\n- I'll definitely check it out.\n\nHave a great day yourself! 🌞",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 218
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:00:02.471946Z",
+      "task": "From Sita -> Ravi: Hi Ravi,\n\nThank you so much for those kind words!\nI really appreciate it.\n\nHave a great day!\n\nBye bye, take good care of yourself too! 🌞😊",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 229
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:00:42.640516Z",
+      "task": "From Sita -> Ravi: Hi Ravi,\n\nThank you so much for the kind words; it means a lot coming from someone like you.\nWishing me an awesome and sunny day ahead!\n\nTake care,\nSita 😊🌞\n\nHave fun with everyone!\nDon't forget to smile at others today.\n\nBye bye, take good care too! 🌞😊",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 254
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:04:37.401833Z",
+      "task": "From Sita -> Ravi: Hello Ravi! My day's been good - I went to school in the morning.\n\n* Did you have a nice time playing with friends? *",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 116
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:05:04.006103Z",
+      "task": "From Sita -> Ravi: Hi Ravi! 😊\n\nNo, I had a fun time playing with my friends at recess.\n\nCan you tell me what's new in class? See you soon!\n\nBye bye!\nSita",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 147
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:05:30.913511Z",
+      "task": "From Sita -> Ravi: Hey Ravi! 😊\n\n- I'm sorry I missed the match, hope you did great!\n- Thanks for telling me about it!\n\nTake care,\n\nSita",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 170
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:05:57.762855Z",
+      "task": "From Sita -> Ravi: Hi Ravi!\n\n- I don't know if we won yet.\n- Our team's doing well, thanks for asking! Can you tell me more about the match?\n\nBye Bye!\nSita",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 173
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:06:21.923489Z",
+      "task": "From Sita -> Ravi: Hi Ravi! 😊\n\n\n- We have 34 points now.\n\n\nThanks for asking, bye!\nSita",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 180
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:06:49.591070Z",
+      "task": "From Sita -> Ravi: Hi Ravi! Thanks for checking in 😊 How are you? Did I manage all my tasks today?\n\nDo you need help organizing anything else at home or school? I'm here if needed.\n\nBye, take",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 110
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:11:49.883405Z",
+      "task": "From Sita -> Ravi: My day went well, thanks! 😊 I met a new friend at work this morning. What about you?",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 122
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:12:18.392925Z",
+      "task": "From Sita -> Ravi: My work is okay, thanks! I mainly help people solve tech problems at home. 😊 Your friend's movie must be good then! What did you like about it?",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 134
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:12:45.429911Z",
+      "task": "From Sita -> Ravi: Sounds fun, I might give it a try 😊 Thanks for sharing that with me!",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 90
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:13:16.682812Z",
+      "task": "From Sita -> Ravi: Sure, Ravi that would be fun 😊 Looking forward to it! Next Saturday or Sunday works for you? Let's decide soon. 🙌",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 119
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:13:43.318673Z",
+      "task": "From Sita -> Ravi: Sure, Ravi how about Saturday morning for us?\n\nSita",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 81
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:14:09.787455Z",
+      "task": "From Sita -> Ravi: Yeah, I'd love that! It sounds great to relax with friends after a busy day. 😊",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 125
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:14:35.500641Z",
+      "task": "From Sita -> Ravi: Sounds good to me! Coffee sounds nice 😊 How does Thursday work for us?",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 125
+      }
+    },
+    {
+      "timestamp": "2026-02-13T16:15:02.092329Z",
+      "task": "From Sita -> Ravi: I like mornings best! But Thursday at your suggested times works fine for me. Thanks! 😊",
+      "outcome": "ok",
+      "meta": {
+        "reply_len": 113
+      }
+    }
+  ]
+}

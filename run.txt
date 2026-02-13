@@ -1,0 +1,10 @@
+python .\duo_auto.py `
+  --a-name "Ravi" `
+  --a-persona "A simple, friendly boy who talks about daily life in an easy and casual way." `
+  --b-name "Sita" `
+  --b-persona "A normal girl who speaks politely, shares everyday thoughts, and asks simple questions." `
+  --turns 16 `
+  --starter A `
+  --seed "How was your day today?" `
+  --delay 0.2 `
+  --transcript ".\out.txt"
