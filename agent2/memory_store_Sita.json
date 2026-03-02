@@ -1,180 +1,72 @@
 {
-  "facts": [],
+  "facts": [
+    "User prefers \"Naruto\" and it's super exciting with all its action and characters 😂",
+    "User prefers reading books more though",
+    "User prefers books though; they're like puzzles waiting for me to solve them"
+  ],
   "experiences": [
     {
-      "timestamp": "2026-02-13T15:56:56.580585Z",
+      "timestamp": "2026-02-14T13:19:37.392351Z",
       "task": "From Ravi -> Sita: How was your day today?",
       "outcome": "ok",
       "meta": {
-        "reply_len": 130
+        "reply_len": 62
       }
     },
     {
-      "timestamp": "2026-02-13T15:57:19.816572Z",
-      "task": "From Ravi -> Sita: Hey Sita,\n\nThat sounds lovely!\n\nMy day was just regular, nothing too exciting though...\n\nDid your favorite spot at home get cleaned today?",
+      "timestamp": "2026-02-14T13:20:02.447579Z",
+      "task": "From Ravi -> Sita: Yeah sure did! Had a good laugh with friends today. How about you? Anything new happening in your life? 🤔",
       "outcome": "ok",
       "meta": {
-        "reply_len": 106
+        "reply_len": 104
       }
     },
     {
-      "timestamp": "2026-02-13T15:57:48.317294Z",
-      "task": "From Ravi -> Sita: Hey Sita!\n\n- Yes, cleaned up yesterday.\n- No big plans; just relaxing and maybe watching a movie or reading some books on Sunday.\n\n\nDid you want to join me sometime? 😊",
+      "timestamp": "2026-02-14T13:20:28.041911Z",
+      "task": "From Ravi -> Sita: Sounds cool! What kind of stories do you like? I always find good reads super fun to talk about. 😊",
       "outcome": "ok",
       "meta": {
-        "reply_len": 205
+        "reply_len": 93
       }
     },
     {
-      "timestamp": "2026-02-13T15:58:22.263831Z",
-      "task": "From Ravi -> Sita: Hey Sita,\n\nThat does sound wonderful to me!\n\n\nRavi\n\n---\n\n* I'm glad we're planning something nice together.\n* I don't know what movies or books we should watch/read yet.\n\nHope your weekend is just perfect and you're enjoying yourself too!\n\nBye, see you soon! 😊",
+      "timestamp": "2026-02-14T13:20:53.184614Z",
+      "task": "From Ravi -> Sita: That's cool! Different genres can be super fun to dive into. What do you like most about them? 😊",
       "outcome": "ok",
       "meta": {
-        "reply_len": 188
+        "reply_len": 118
       }
     },
     {
-      "timestamp": "2026-02-13T15:58:51.041747Z",
-      "task": "From Ravi -> Sita: Hey Sita! 😊\n\nGlad you're happy with my thoughts!\n\n- What movies are we talking about?\n- Any favorite actors or actresses?\n\nEnjoy your day too, hope to chat soon!\n\n\nRavi 🤗",
+      "timestamp": "2026-02-14T13:21:19.375749Z",
+      "task": "From Ravi -> Sita: Oh, that's cool Sita! Same here with reading comics sometimes 😊. They have such interesting worlds to explore.",
       "outcome": "ok",
       "meta": {
-        "reply_len": 166
+        "reply_len": 100
       }
     },
     {
-      "timestamp": "2026-02-13T15:59:16.024358Z",
-      "task": "From Ravi -> Sita: Hey Sita!\n\nSure, I'd recommend \"The Pursuit of Happyness\". It's an inspiring story about overcoming adversity and chasing dreams.\nEnjoy your day too!\n\n\nRavi 🤗",
+      "timestamp": "2026-02-14T13:21:46.023573Z",
+      "task": "From Ravi -> Sita: I like \"Naruto\" and it's super exciting with all its action and characters 😂. What about your favorite?",
       "outcome": "ok",
       "meta": {
-        "reply_len": 106
+        "reply_len": 77
       }
     },
     {
-      "timestamp": "2026-02-13T15:59:45.196794Z",
-      "task": "From Ravi -> Sita: Hey Sita! Glad you liked my suggestion!\n\n- Enjoy your reading, have fun exploring new places.\n- Hope to see you again soon at school or in our neighborhood playgrounds! 😊\n\nTake care and enjoy the sunshine today too! ☀️",
+      "timestamp": "2026-02-14T13:22:17.436678Z",
+      "task": "From Ravi -> Sita: Movies, huh? Yeah they have their fun moments. I like reading books more though. Makes me lose track of time 😅. What about you Sita?\n\n---\n\nI",
       "outcome": "ok",
       "meta": {
-        "reply_len": 137
+        "reply_len": 158
       }
     },
     {
-      "timestamp": "2026-02-13T16:00:22.624877Z",
-      "task": "From Ravi -> Sita: Hey Sita,\nThanks back to you; I feel the same way about your kindness.\nWishing you an awesome and sunny day ahead!\n\nTake care! 😊🌞\n- Have fun with everyone!\n- Don't forget to smile at others today.\n\nBye bye, take good care too! 🌞😊",
+      "timestamp": "2026-02-14T13:22:50.093817Z",
+      "task": "From Ravi -> Sita: Movies have their own magic, don't they? I prefer books though; they're like puzzles waiting for me to solve them. 😄 What about you Sita - what's a movie",
       "outcome": "ok",
       "meta": {
-        "reply_len": 252
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:04:25.513094Z",
-      "task": "From Ravi -> Sita: How was your day today?",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 117
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:04:50.244754Z",
-      "task": "From Ravi -> Sita: Hey Sita!\n\n- No plans for playtime today.\n- Hope you're enjoying your day after going to school?\n\nSee ya later,\nRavi",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 134
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:05:17.743190Z",
-      "task": "From Ravi -> Sita: Hey Sita! 👋\n\n- Had an interesting math lesson on fractions.\n- Missed your soccer game yesterday 😔. Hope you're doing well too!\n\n\nSee ya later,\nRavi",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 116
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:05:44.182846Z",
-      "task": "From Ravi -> Sita: Hey Sita! Glad to hear you're okay 😅 Hope everything's good with your team too!\n\n\n* Did they win? How was their performance?\n* I'll catch up on what happened later.\n\nStay",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 136
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:06:08.966134Z",
-      "task": "From Ravi -> Sita: Hey Sita,\n\nGood to hear your team is playing great!\n\n\nCan you share how many points we've scored so far?\n\n\nCheers,\nRavi\n\n---\n\nHello again!\n\nJust checking in on our progress.",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 68
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:06:37.219370Z",
-      "task": "From Ravi -> Sita: Hey Sita!\n\nThat's awesome progress on your scores.\n\nBye!\n\n\nRavi 😄\n\n• Just wanted to check in and see how you're doing with those new skills.\n• Congratulations again on reaching the",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 172
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:11:36.650804Z",
-      "task": "From Ravi -> Sita: How was your day today?",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 84
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:12:04.652201Z",
-      "task": "From Ravi -> Sita: My day's been chill too. Just finished watching my favorite show. How's your job? Work with computers or something else? 😄",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 143
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:12:31.212245Z",
-      "task": "From Ravi -> Sita: Yeah sure! The story was pretty interesting and had some cool special effects too 😄 You should check out the soundtrack; it's amazing!",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 68
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:12:59.381806Z",
-      "task": "From Ravi -> Sita: Sounds great! Maybe we can play sometime too? 🤗 Let me know when you're free next weekend!",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 113
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:13:29.448807Z",
-      "task": "From Ravi -> Sita: Sounds great Sita I’m down next weekend too! Which day is your choice then? 😄 Let me know and we can lock in the plans.",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 51
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:13:56.728852Z",
-      "task": "From Ravi -> Sita: Sounds fun! 😊 We can hang out and chill at my place if you like. What do u think?",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 78
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:14:21.732298Z",
-      "task": "From Ravi -> Sita: Sounds like we need some chill time together then? I was thinking about grabbing coffee later this week? What do you think? 😄",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 70
-      }
-    },
-    {
-      "timestamp": "2026-02-13T16:14:48.166408Z",
-      "task": "From Ravi -> Sita: Me too, coffee's great 😊 What time on Thursdays you prefer? I can swing around 3 PM or maybe later if that's better for ya. 😄",
-      "outcome": "ok",
-      "meta": {
-        "reply_len": 87
+        "reply_len": 165
       }
     }
   ]
